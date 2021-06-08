@@ -1,2 +1,2 @@
 # xing-ssm
-ssm 
+spring+springmvc+mybatis整合
